@@ -14,7 +14,7 @@ Standards-Version: 3.9.6
 
 Package: anon-gw-dhcp-conf
 Architecture: all
-Depends: dhcp3-client | isc-dhcp-client, ${misc:Depends}
+Depends: ${misc:Depends}
 Description: DHCP config for Anonymity Distribution Gateways
  Prevents DHCP from modifications of /etc/resolv.conf by shipping a
  configuration file.
