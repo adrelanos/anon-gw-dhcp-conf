@@ -1,3 +1,27 @@
+commit 0b47d14f6f07d3c23b2321b4e8f397302560f215
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 21 17:38:39 2016 +0000
+
+    readme
+
+commit ce5b8e0c4e09f24379a09748524a5fb58812170c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 26 20:35:54 2016 +0200
+
+    no longer install dhcp client by default for Whonix-Gateway external interface
+    
+    eth0, for better hardening
+    
+    Thanks to @HulaHoopWhonix for suggesting this!
+    
+    https://phabricator.whonix.org/T559
+
+commit 0ad648dec6d473c4c8e7e0abf981cb3ec98f0cd5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:07:33 2015 +0000
+
+    bumped changelog version
+
 commit 325b37deadf527f0c532f3f7a0c2bace3faea8fc
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jun 3 14:58:55 2015 +0000
