@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/Whonix/anon-gw-dhcp-conf
 Vcs-Browser: https://github.com/Whonix/anon-gw-dhcp-conf
 Vcs-Git: https://github.com/Whonix/anon-gw-dhcp-conf.git
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 
 Package: anon-gw-dhcp-conf
 Architecture: all
