@@ -7,6 +7,7 @@
 #### project Whonix
 #### category networking and dns and dhcp
 #### installed_by_default no
+#### gateway_only yes
 #### description
 ## prevent resolvconf from modifying <code>/etc/resolv.conf</code>
 #### meta end
