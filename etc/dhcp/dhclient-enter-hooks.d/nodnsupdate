@@ -7,8 +7,8 @@
 #### project Whonix
 #### category networking and dns and dhcp
 #### installed_by_default no
-#### description prevent resolvconf from modifying
-## <code>/etc/resolv.conf</code>
+#### description
+## prevent resolvconf from modifying <code>/etc/resolv.conf</code>
 #### meta end
 
 make_resolv_conf(){
