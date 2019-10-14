@@ -1,3 +1,9 @@
+anon-gw-dhcp-conf (3:2.4-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Mon, 14 Oct 2019 10:14:26 +0000
+
 anon-gw-dhcp-conf (3:2.3-1) unstable; urgency=medium
 
   * New upstream version (local package).
